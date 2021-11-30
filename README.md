@@ -1,5 +1,4 @@
-#  RDP Windows Gratis Durasi 6 Jam Punya Mas Bay
-
+#  RDP Windows Gratis Durasi 6 Jam AMATECHX
 RDP Gratis Windows Server 2019, Server US, Ram 7GB 2 Core Cpu Dengan Github:
 + kunjungi https://dashboard.ngrok.com untuk mendapatkan NGROK_AUTH_TOKEN
 + Di Dalam Repo ini Pergi ke Settings> Secrets> New repository secret
